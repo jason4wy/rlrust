@@ -2,4 +2,12 @@
 vim for rust 
 https://zenn.dev/yuucu/articles/vimrc-rust-yuucu
 https://github.com/yuucu/vimrc-sandbox/tree/rust
-2.
+2.现有的非 LSP 插件
+
+coc-emmet 提供 emmet 自动补全支持。
+coc-highlight 提供当前单词以及颜色高亮支持。
+coc-lists 提供常用列表支持。
+coc-pairs 提供自动配对支持。
+coc-snippets 提供代码块方案。
+coc-yank 提供 yank 高亮和历史列表。
+coc-git 提供 git chunks、状态、列表等支持。
