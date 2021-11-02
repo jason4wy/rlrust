@@ -3,6 +3,7 @@ vim for rust
 https://zenn.dev/yuucu/articles/vimrc-rust-yuucu
 https://github.com/yuucu/vimrc-sandbox/tree/rust
 2.现有的非 LSP 插件
+https://www.zhihu.com/column/p/31149912
 
 coc-emmet 提供 emmet 自动补全支持。
 coc-highlight 提供当前单词以及颜色高亮支持。
