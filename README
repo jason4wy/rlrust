@@ -1,4 +1,5 @@
 1.for rust development.
+
 vim for rust 
 https://zenn.dev/yuucu/articles/vimrc-rust-yuucu
 https://github.com/yuucu/vimrc-sandbox/tree/rust
@@ -16,3 +17,9 @@ coc-git 提供 git chunks、状态、列表等支持。
 3.learning rust simple docment.
 https://learning-rust.github.io/docs/index.html
 so simple introduction of rust language core feature.
+
+4. Develoment IDE for Linux.
+neovim SpaceVim coc.nvim ccls 
+https://martins3.github.io/My-Linux-Config/nvim.html
+https://github.com/Martins3/My-Linux-Config
+
