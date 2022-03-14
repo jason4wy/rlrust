@@ -22,4 +22,20 @@ so simple introduction of rust language core feature.
 neovim SpaceVim coc.nvim ccls 
 https://martins3.github.io/My-Linux-Config/nvim.html
 https://github.com/Martins3/My-Linux-Config
-
++-----------------+
+|                 |
+|     my config   | 在 SpaceVim 的基础上整合coc.nvim，同时添加一些插件和配置
+|                 |
++-----------------+
+|                 |
+|     Coc.nvim    | 提供 lsp 功能，提供类似 VSCode 的优雅体验，完美支持C/C++。
+|                 | coc.nvim 同样可以添加插件，比如 coc-clang。
++-----------------+
+|                 |
+|     SpaceVim    | 一个模块化，功能齐全的vim distribution。
+|                 |
++-----------------+
+|                 |
+|     Neovim      | 编辑器，当没有任何配置的时候，比较难用。
+|                 |
++-----------------+
